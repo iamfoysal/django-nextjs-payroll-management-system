@@ -1,0 +1,11 @@
+flask==3.1.1
+flask-cors==6.0.1
+django==5.2
+djangorestframework==3.15.2
+django-cors-headers==4.6.0
+django-filter==24.3
+pillow==11.0.0
+python-dateutil==2.9.0.post0
+djangorestframework-simplejwt==5.4.0
+gunicorn==23.0.0
+
